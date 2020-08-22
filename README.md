@@ -1,2 +1,1 @@
-# terraform-aws-wordpress
-with elastic load balancer and auto scaling group support
+# terraform-iaac-2020
